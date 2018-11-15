@@ -1,0 +1,33 @@
+.top {
+    background-color: #000000;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+}
+
+.top a {
+    border: 1px solid #c0c0c0;
+    padding: 5px 15px;
+    font-size: 15px;
+    font-weight: bold;
+    display: inline-block;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: none;
+    color: #c0c0c0;
+}
+
+a:hover {
+    background-color: #ffaa00;
+    color: #000000;
+}
+
+main{
+    text-align: center;
+}
+
+.content {
+background-color: #919191;
+}
+.bottom{
+
+}

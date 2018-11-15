@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76f90494-2305-44dd-9910-81feef95520d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/testas.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kontaktai.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontaktai.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,20 +66,26 @@
     <session id="1891764058">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="908" />
+          <entry key="css" value="717" />
+          <entry key="html" value="952" />
           <entry key="php" value="3" />
+          <entry key="txt" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="908" />
+          <entry key="CSS" value="717" />
+          <entry key="HTML" value="952" />
           <entry key="PHP" value="3" />
+          <entry key="PLAIN_TEXT" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -87,75 +96,64 @@
       <usages-collector id="statistics.php.new.test" />
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CSS" value="10" />
+          <entry key="HTML" value="1" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.php.composer.command.options" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="css" value="10" />
+          <entry key="html" value="1" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/saugoti.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kontaktai.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kaunas-02.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="337">
+                  <caret line="37" selection-start-line="37" selection-end-line="37" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/testas.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="306">
+                  <caret line="31" selection-start-line="31" selection-end-line="31" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/Desktop/WEB/Pirmas bandymas/style2.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="490">
+                  <caret line="67" column="13" lean-forward="true" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -166,11 +164,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/ecodumas" />
         <option value="$PROJECT_DIR$/saugoti.php" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/reset.css" />
+        <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/kontaktai.html" />
+        <option value="$PROJECT_DIR$/img/afg.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/testas.css" />
       </list>
     </option>
   </component>
@@ -194,6 +195,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,17 +203,22 @@
               <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
               <item name="htdocs" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="vcs.patch.to.clipboard" value="true" />
@@ -251,7 +258,8 @@
       <workItem from="1542133568354" duration="4136000" />
       <workItem from="1542212882883" duration="1517000" />
       <workItem from="1542215404040" duration="1150000" />
-      <workItem from="1542219793386" duration="3825000" />
+      <workItem from="1542219793386" duration="4047000" />
+      <workItem from="1542299315730" duration="4638000" />
     </task>
     <task id="LOCAL-00001">
       <created>1542137614280</created>
@@ -274,11 +282,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542220683423</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Pridetas form kontaktuose">
+      <created>1542223797124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542223797124</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10628000" />
+    <option name="totallyTimeSpent" value="15488000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -291,9 +306,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23489933" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14026846" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -306,8 +320,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32907802" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -322,24 +337,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Pirmas blynas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pirmas blynas" />
+    <MESSAGE value="Pridetas form kontaktuose" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pridetas form kontaktuose" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ecodumas" />
-    <entry file="file://$PROJECT_DIR$/kaunas-02.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/saugoti.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -351,17 +357,144 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/kaunas-02.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/reset.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+        <state relative-caret-position="799">
+          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kontaktai.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+        <state relative-caret-position="85">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/afg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="449" column="105" lean-forward="true" selection-start-line="449" selection-start-column="105" selection-end-line="449" selection-end-column="105" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="e#353#380#0" expanded="true" />
+            <element signature="e#387#410#0" expanded="true" />
+            <element signature="e#462#760#0" />
+            <element signature="e#468#491#0" expanded="true" />
+            <element signature="e#500#753#0" />
+            <element signature="e#497#588#0" expanded="true" />
+            <element signature="e#792#815#0" expanded="true" />
+            <element signature="e#855#1032#0" />
+            <element signature="e#974#997#0" expanded="true" />
+            <element signature="e#1134#1637#0" />
+            <element signature="e#1646#1974#0" />
+            <element signature="e#2033#2203#0" />
+            <element signature="e#2271#2618#0" />
+            <element signature="e#3031#3184#0" />
+            <element signature="e#2112#2139#0" expanded="true" />
+            <element signature="e#3128#3173#0" />
+            <element signature="e#2146#2169#0" expanded="true" />
+            <element signature="e#2194#2221#0" expanded="true" />
+            <element signature="e#2228#2251#0" expanded="true" />
+            <element signature="e#3309#3575#0" />
+            <element signature="e#2547#2574#0" expanded="true" />
+            <element signature="e#3708#3757#0" />
+            <element signature="e#2581#2604#0" expanded="true" />
+            <element signature="e#2629#2656#0" expanded="true" />
+            <element signature="e#2663#2686#0" expanded="true" />
+            <element signature="e#3899#4250#0" />
+            <element signature="e#2915#2942#0" expanded="true" />
+            <element signature="e#2953#2980#0" expanded="true" />
+            <element signature="e#2991#3018#0" expanded="true" />
+            <element signature="e#3064#3120#0" expanded="true" />
+            <element signature="e#4422#4560#0" />
+            <element signature="e#3378#3399#0" expanded="true" />
+            <element signature="e#4980#5114#0" />
+            <element signature="e#4268#4289#0" expanded="true" />
+            <element signature="e#5870#6004#0" />
+            <element signature="e#5158#5179#0" expanded="true" />
+            <element signature="e#6764#6896#0" />
+            <element signature="e#6029#6050#0" expanded="true" />
+            <element signature="e#7391#7520#0" />
+            <element signature="e#7709#7869#0" />
+            <element signature="e#7048#7069#0" expanded="true" />
+            <element signature="e#7793#7814#0" expanded="true" />
+            <element signature="e#9171#9300#0" />
+            <element signature="e#9977#10099#0" />
+            <element signature="e#8595#8616#0" expanded="true" />
+            <element signature="e#8873#9089#0" />
+            <element signature="e#8897#9082#0" />
+            <element signature="e#9597#9618#0" expanded="true" />
+            <element signature="e#10982#11109#0" />
+            <element signature="e#10965#10986#0" expanded="true" />
+            <element signature="e#11862#11883#0" expanded="true" />
+            <element signature="e#13255#13393#0" />
+            <element signature="e#12889#12910#0" expanded="true" />
+            <element signature="e#15133#15257#0" />
+            <element signature="e#13737#13758#0" expanded="true" />
+            <element signature="e#14764#14785#0" expanded="true" />
+            <element signature="e#17150#17274#0" />
+            <element signature="e#15755#15776#0" expanded="true" />
+            <element signature="e#16816#16837#0" expanded="true" />
+            <element signature="e#19039#19164#0" />
+            <element signature="e#17646#17667#0" expanded="true" />
+            <element signature="e#18530#18551#0" expanded="true" />
+            <element signature="e#19377#19398#0" expanded="true" />
+            <element signature="e#20772#20908#0" />
+            <element signature="e#21675#21799#0" />
+            <element signature="e#20277#20298#0" expanded="true" />
+            <element signature="e#21920#22061#0" />
+            <element signature="e#21252#21273#0" expanded="true" />
+            <element signature="e#23568#23694#0" />
+            <element signature="e#22172#22193#0" expanded="true" />
+            <element signature="e#23045#23066#0" expanded="true" />
+            <element signature="e#23890#23911#0" expanded="true" />
+            <element signature="e#24699#24720#0" expanded="true" />
+            <element signature="e#26211#26343#0" />
+            <element signature="e#25547#25568#0" expanded="true" />
+            <element signature="e#27056#27189#0" />
+            <element signature="e#26346#26367#0" expanded="true" />
+            <element signature="e#27856#27985#0" />
+            <element signature="e#27199#27220#0" expanded="true" />
+            <element signature="e#28057#28078#0" expanded="true" />
+            <element signature="e#28916#28937#0" expanded="true" />
+            <element signature="e#30307#30438#0" />
+            <element signature="e#29844#29865#0" expanded="true" />
+            <element signature="e#29953#30536#0" />
+            <element signature="e#31454#31958#0" />
+            <element signature="e#32016#32151#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WEB/Pirmas bandymas/style2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="67" column="13" lean-forward="true" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/testas.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
