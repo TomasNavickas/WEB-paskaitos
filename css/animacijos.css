@@ -1,0 +1,17 @@
+@keyframes example{
+    0% {bakcground-color: red;}
+    30%{background-color: yellow}
+    40%{background-color: green}
+    50%{background-color: blue}
+    60%{background-color: orange}
+    80%{background-color: deeppink}
+    90%{background-color: black}
+    100%{background-color: limegreen}
+
+}
+body{
+    background-color: red;
+    animation-name: example;
+    animation-duration:10s;
+    animation-iteration-count: infinite;
+}
