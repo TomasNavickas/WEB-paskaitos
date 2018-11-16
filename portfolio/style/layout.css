@@ -1,0 +1,36 @@
+body {
+    display: grid;
+    grid-template-columns: 1fr;
+    width:1200px;
+    align-items:center
+}
+
+header {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 50px;
+    background-color: limegreen;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+header .logo {
+    justify-self: left;
+}
+
+header .top {
+    justify-self: center;
+    align-items:center;
+
+}
+
+header .burger{
+    justify-self: right;
+}
+
+.burger div{
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}

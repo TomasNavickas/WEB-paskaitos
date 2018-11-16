@@ -9,7 +9,7 @@
     100%{background-color: limegreen}
 
 }
-body{
+{
     background-color: red;
     animation-name: example;
     animation-duration:10s;
