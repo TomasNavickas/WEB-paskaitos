@@ -1,27 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76f90494-2305-44dd-9910-81feef95520d" name="Default Changelist" comment="Prad4tas daryt antras variantas nuo 0">
-      <change afterPath="$PROJECT_DIR$/paskaitos/css/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paskaitos/kontaktai.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/contacts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/portfolio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/style/design.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/style/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/style/reset.css" afterDir="false" />
+    <list default="true" id="76f90494-2305-44dd-9910-81feef95520d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/paskaitos/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/animacijos.css" beforeDir="false" afterPath="$PROJECT_DIR$/paskaitos/css/animacijos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/dizainas.css" beforeDir="false" afterPath="$PROJECT_DIR$/paskaitos/css/dizainas.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/paskaitos/css/reset.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/kaunas-02.png" beforeDir="false" afterPath="$PROJECT_DIR$/paskaitos/img/kaunas-02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/paskaitos/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kaunas-02.png" beforeDir="false" afterPath="$PROJECT_DIR$/paskaitos/kaunas-02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kontaktai.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/paskaitos/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saugoti.php" beforeDir="false" afterPath="$PROJECT_DIR$/paskaitos/saugoti.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/style/design.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/style/design.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/style/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/style/layout.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,25 +64,27 @@
     <session id="1891764058">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="1884" />
-          <entry key="html" value="1803" />
+          <entry key="css" value="6535" />
+          <entry key="html" value="2161" />
           <entry key="php" value="3" />
           <entry key="txt" value="187" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="1884" />
-          <entry key="HTML" value="1803" />
+          <entry key="CSS" value="6535" />
+          <entry key="HTML" value="2161" />
           <entry key="PHP" value="3" />
           <entry key="PLAIN_TEXT" value="187" />
         </counts>
@@ -111,7 +97,7 @@
       <usages-collector id="statistics.php.new.test" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="29" />
+          <entry key="CSS" value="31" />
           <entry key="HTML" value="13" />
           <entry key="Markdown" value="2" />
           <entry key="PHP" value="1" />
@@ -120,7 +106,7 @@
       <usages-collector id="statistics.php.composer.command.options" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="29" />
+          <entry key="css" value="31" />
           <entry key="html" value="13" />
           <entry key="md" value="2" />
           <entry key="php" value="1" />
@@ -132,15 +118,6 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/paskaitos/css/layout.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="13" selection-start-line="13" selection-end-line="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/portfolio/index.html">
               <provider selected="true" editor-type-id="text-editor">
@@ -150,25 +127,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/portfolio/portfolio.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="141">
-                  <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
-                  <folding>
-                    <element signature="e#1474#1481#1" expanded="true" />
-                    <element signature="e#1662#1669#1" expanded="true" />
-                    <element signature="e#684#690#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/paskaitos/portfolio.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="16" selection-end-column="10" />
+                <state relative-caret-position="187">
+                  <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
                 </state>
               </provider>
             </entry>
@@ -182,19 +145,10 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/portfolio/style/layout.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="192">
-                  <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-                </state>
-              </provider>
-            </entry>
-          </file>
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/portfolio/style/reset.css">
               <provider selected="true" editor-type-id="text-editor">
@@ -204,20 +158,20 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/paskaitos/css/reset.css">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/portfolio/style/layout.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="141">
-                  <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+                <state>
+                  <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/portfolio/style/layout.css">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/portfolio/style/design.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="51">
-                  <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+                <state relative-caret-position="357">
+                  <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
                 </state>
               </provider>
             </entry>
@@ -237,6 +191,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -251,13 +208,13 @@
         <option value="$PROJECT_DIR$/css/dizainas.css" />
         <option value="$PROJECT_DIR$/kontaktai.html" />
         <option value="$PROJECT_DIR$/css/layout.css" />
-        <option value="$PROJECT_DIR$/portfolio/style/design.css" />
         <option value="$PROJECT_DIR$/portfolio/style/reset.css" />
         <option value="$PROJECT_DIR$/portfolio/contacts.html" />
         <option value="$PROJECT_DIR$/portfolio/index.html" />
+        <option value="$PROJECT_DIR$/paskaitos/css/layout.css" />
         <option value="$PROJECT_DIR$/portfolio/portfolio.html" />
         <option value="$PROJECT_DIR$/portfolio/style/layout.css" />
-        <option value="$PROJECT_DIR$/paskaitos/css/layout.css" />
+        <option value="$PROJECT_DIR$/portfolio/style/design.css" />
       </list>
     </option>
   </component>
@@ -271,9 +228,9 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -296,6 +253,12 @@
             <path>
               <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
               <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+              <item name="paskaitos" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -303,13 +266,6 @@
               <item name="htdocs" type="462c0819:PsiDirectoryNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="CSharp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
@@ -334,6 +290,9 @@
     <property name="vcs.patch.to.clipboard" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\portfolio\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\paskaitos" />
     </key>
@@ -376,7 +335,9 @@
       <workItem from="1542219793386" duration="4047000" />
       <workItem from="1542299315730" duration="6296000" />
       <workItem from="1542385085714" duration="8239000" />
-      <workItem from="1542402329445" duration="5209000" />
+      <workItem from="1542402329445" duration="5258000" />
+      <workItem from="1542457298169" duration="1593000" />
+      <workItem from="1542470866004" duration="22477000" />
     </task>
     <task id="LOCAL-00001">
       <created>1542137614280</created>
@@ -420,11 +381,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542392755080</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Prad4tas daryt antras variantas nuo 0">
+      <created>1542409120351</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1542409120351</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30594000" />
+    <option name="totallyTimeSpent" value="54713000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -436,12 +404,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24228188" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Command Line Tools Console" weight="0.32907802" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -554,9 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="313" selection-start-line="26" selection-start-column="313" selection-end-line="26" selection-end-column="313" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -567,13 +533,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/style/design.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/contacts.html">
+    <entry file="file://$PROJECT_DIR$/paskaitos/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paskaitos/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -591,6 +561,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/style/reset.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -598,36 +575,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
-          <folding>
-            <element signature="e#1474#1481#1" expanded="true" />
-            <element signature="e#1662#1669#1" expanded="true" />
-            <element signature="e#684#690#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/style/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/paskaitos/css/layout.css">
+    <entry file="file://$PROJECT_DIR$/portfolio/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="187">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/paskaitos/css/reset.css">
+    <entry file="file://$PROJECT_DIR$/portfolio/style/design.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        <state relative-caret-position="357">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
         </state>
       </provider>
     </entry>
