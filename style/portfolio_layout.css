@@ -1,7 +1,7 @@
 body {
     display: grid;
     grid-template-columns: 1fr 4fr 1fr;
-    grid-template-rows: 60px 620px 40px;
+    grid-template-rows: 70px 610px 40px;
 }
 
 header {
@@ -13,7 +13,7 @@ header {
 .logo {
     justify-self: left;
     align-self: center;
-    grid-column:2/3;
+    grid-column: 2/3;
 }
 
 .top {
@@ -31,10 +31,12 @@ header {
 main {
     display: grid;
     grid-template-columns: 2fr 2fr 2fr;
-    grid-template-rows: 60px 10px 520px 30px;
+    grid-template-rows: 60px 10px 510px 30px;
     grid-row: 2/3;
-    grid-column: 2/3;
+    grid-column: 1/4;
+    align-items: center;
 }
+
 .content {
     justify-self: center;
     align-self: center;
@@ -42,36 +44,30 @@ main {
     grid-row: 1;
 }
 
-.line{
+.line {
     grid-column: 1/4;
-    grid-row:2;
+    grid-row: 2;
 }
 
 .csharp {
-    justify-self: center;
-    align-self: center;
-    grid-column: 1/2;
     grid-row: 3/4;
+    grid-column: 1;
 }
 
 .java {
-    justify-self: center;
-    align-self: center;
-    grid-column: 2/3;
+    grid-column: 2;
     grid-row: 3/4;
 }
 
 .web {
-    justify-self: center;
-    align-self: center;
-    grid-column: 3/4;
+    grid-column: 3;
     grid-row: 3/4;
 }
 
 .pagination {
+    grid-column: 2;
     justify-self: center;
     align-self: center;
-    grid-column: 2/3;
 }
 
 footer {

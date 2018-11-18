@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kontaktai</title>
+    <link rel="stylesheet" href="style/reset.css">
+    <link rel="stylesheet" href="style/kontaktai_layout.css">
+    <link rel="stylesheet" href="style/kontaktai_design.css">
+
+</head>
+<body>
+<header>
+    <div class="logo">
+        <img src="img/logotn.png" alt="logo" height="40">
+    </div>
+    <nav class="top">
+        <a href="/">Pagrindinis</a>
+        <a href="portfolio.html">Portfolio</a>
+        <a href="kontaktai.html">Kontaktai</a>
+    </nav>
+    <div class="burger">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+</header>
+
+<main>
+    <div class="header">
+        <h1>kontaktai</h1>
+    </div>
+    <div class="maps">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2292.052739251191!2d23.88794231562942!3d54.93709296207217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46e71f30d8cd391b%3A0x68680dce2fbdcf65!2zS3VyxaFpxbMgZy4gNywgS2F1bmFzIDQ4MTA5!5e0!3m2!1sen!2slt!4v1542544738193"
+                height="300" width="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>
+    <div class="contacts">
+        <div class="vardas">Vardas</div>
+        <div class="name">
+            <form action="portfolio/saugoti.php" method="post" target="_blank">
+                <label for="name"></label>
+                <input type="text" name="firstName" id="name"/>
+            </form>
+        </div>
+        <div class="pastas">El. Paštas</div>
+        <div class="email">
+            <label for="email"></label>
+            <input type="email" name="email" id="email">
+        </div>
+        <div class="zinute">
+            <p>Jūsų žinutė:</p>
+        </div>
+        <div class="message">
+            <textarea name="message" placeholder="Sveiki!" rows="8" cols="60"></textarea>
+        </div>
+        <div class="button">
+            <button type="submit">Siųsti</button>
+        </div>
+        </form>
+    </div>
+</main>
+
+<footer>
+    <div class="copy"> 2018 &copy; visos teisės saugomos.</div>
+    <div class="logo">
+        <img src="img/kaunas-02.png" alt="logo" height="28">
+    </div>
+</footer>
+</body>
+</html>

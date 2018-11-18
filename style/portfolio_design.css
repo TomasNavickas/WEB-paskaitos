@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #ffffff;
+    background-color: #fdfdfd;
 
 }
 
@@ -28,10 +28,6 @@ header a {
     font-family: "Roboto", sans-serif;
 }
 
-.top:second-child{
-
-}
-
 header a:hover {
     border: 1px solid #000000;
     border-radius: 5px;
@@ -39,7 +35,9 @@ header a:hover {
 }
 
 main {
-    background-image: linear-gradient(#f7fbfc, #d6e6f2);
+    /*background-color: #fdfdfd;*/
+    background-color: #769fcd;
+
 }
 
 .content a {
@@ -66,12 +64,14 @@ main {
 }
 
 main img {
-    margin: 1em;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #f7fbfc;
 
 }
 
 main img:hover {
-    border: 1px solid #919191;
+    border: 1px solid #0000cd;
 }
 
 .pagination a {
