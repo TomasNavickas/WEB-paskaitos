@@ -1,0 +1,126 @@
+body {
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    grid-template-rows: 70px 610px 40px;
+}
+
+header {
+    display: grid;
+    grid-template-columns: 1fr 1fr 4fr 1fr 1fr;
+    grid-column: 1/4;
+}
+
+.logo {
+    justify-self: left;
+    align-self: center;
+    grid-column: 2/3;
+}
+
+.top {
+    justify-self: center;
+    align-self: center;
+    grid-column: 3/4;
+}
+
+.burger {
+    justify-self: end;
+    align-self: center;
+    grid-column: 4/5;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 60px 300px 250px;
+    grid-row: 2/3;
+    grid-column: 2/3;
+}
+
+.header {
+    grid-row: 1;
+    grid-column: 2;
+    justify-self: center;
+    align-self: center;
+}
+
+.maps {
+    grid-row: 2;
+    grid-column: 1/4;
+}
+
+.contacts {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 50px 50px 50px 50px 50px;
+    grid-row: 3;
+    grid-column: 1/4;
+}
+
+.vardas{
+    grid-row: 1;
+    grid-column: 1/2;
+    justify-self: center;
+    align-self: end;
+}
+
+.name {
+    grid-row: 2;
+    grid-column: 1/2;
+    justify-self: center;
+    align-self: center;
+}
+
+.pastas{
+    grid-row: 3;
+    grid-column: 1/2;
+    justify-self: center;
+    align-self: end;
+}
+
+.email {
+    grid-row: 4;
+    grid-column: 1/2;
+    justify-self: center;
+    align-self: center;
+}
+.zinute{
+    grid-row: 1;
+    grid-column: 2;
+    justify-self: start;
+    align-self: end;
+}
+
+.message {
+    grid-row: 2/5;
+    grid-column: 2/4;
+    justify-self: start;
+    align-self: center;
+}
+
+.button {
+    grid-row: 5;
+    grid-column: 2;
+    justify-self: center;
+    align-self: center;
+}
+
+footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 4fr 1fr 1fr;
+    grid-column: 1/4;
+    grid-row: 3;
+}
+
+.copy {
+    justify-self: left;
+    align-self: center;
+    grid-row: 4/5;
+    grid-column: 2/4;
+}
+
+footer .logo {
+    justify-self: right;
+    align-self: center;
+    grid-row: 4/5;
+    grid-column: 3/5;
+}

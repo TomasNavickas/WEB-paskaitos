@@ -1,0 +1,92 @@
+body {
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    grid-template-rows: 70px 610px 40px;
+}
+
+header {
+    display: grid;
+    grid-template-columns: 1fr 1fr 4fr 1fr 1fr;
+    grid-column: 1/4;
+}
+
+.logo {
+    justify-self: left;
+    align-self: center;
+    grid-column: 2/3;
+}
+
+.top {
+    justify-self: center;
+    align-self: center;
+    grid-column: 3/4;
+}
+
+.burger {
+    justify-self: end;
+    align-self: center;
+    grid-column: 4/5;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    grid-template-rows: 60px 10px 510px 30px;
+    grid-row: 2/3;
+    grid-column: 1/4;
+    align-items: center;
+}
+
+.content {
+    justify-self: center;
+    align-self: center;
+    grid-column: 2/4;
+    grid-row: 1;
+}
+
+.line {
+    grid-column: 1/4;
+    grid-row: 2;
+}
+
+.csharp {
+    grid-row: 3/4;
+    grid-column: 1;
+}
+
+.java {
+    grid-column: 2;
+    grid-row: 3/4;
+}
+
+.web {
+    grid-column: 3;
+    grid-row: 3/4;
+}
+
+.pagination {
+    grid-column: 2;
+    justify-self: center;
+    align-self: center;
+}
+
+footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 4fr 1fr 1fr;
+    grid-column: 1/4;
+    grid-row: 3;
+}
+
+.copy {
+    justify-self: left;
+    align-self: center;
+    grid-row: 4/5;
+    grid-column: 2/4;
+}
+
+footer .logo {
+    justify-self: right;
+    align-self: center;
+    grid-row: 4/5;
+    grid-column: 3/5;
+}
