@@ -1,3 +1,7 @@
+.wrap {
+    background-color: #f1f1f2;
+}
+
 .burger div {
     width: 35px;
     height: 6px;
@@ -5,73 +9,37 @@
     margin: 6px 0;
 }
 
-body {
-    background-color: #fdfdfd;
-
-}
-
 header {
-    background-color: #ffffff;
-    border-bottom: 1px solid #cccccc;
+    background-color: #f1f1f1;
+    border-bottom: 1px solid #aaaaaa;
 }
 
-header a {
+.top a {
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 20px;
     font-weight: bold;
+    font-size: 18px;
     color: #ffffff;
     padding: 5px 15px;
     border: 1px solid #ffffff;
     border-radius: 5px;
-    background-color: #769fcd;
+    background-color: dimgrey;
     font-family: "Roboto", sans-serif;
 }
 
-header a:hover {
+.top a:hover {
     border: 1px solid #000000;
     border-radius: 5px;
 
 }
 
-main {
-    /*background-color: #fdfdfd;*/
-    background-color: #769fcd;
-
+.gallery img {
+    border: 1px solid #d3d3d3;
+    padding: 5px;
 }
 
-.content a {
-
-    text-decoration: none;
-    padding: 5px 15px;
-    margin: 10px;
-    color: #000000;
-    text-transform: uppercase;
-    font-family: "Roboto", sans-serif;
-    font-weight: bold;
-    font-size: 30px;
-    border-right: 5px solid #555555;
-    border-left: 1px solid #f7fbfc;
-    border-radius: 5px;
-    height: 20px;
-}
-
-.content a:hover {
-    border: 1px solid #000000;
-    background-color: #f6fafb;
-    border-right: 5px solid #000000;
-    border-radius: 5px;
-}
-
-main img {
-    margin: 10px;
-    padding: 10px;
-    border: 1px solid #f7fbfc;
-
-}
-
-main img:hover {
-    border: 1px solid #0000cd;
+.gallery img:hover {
+    border: 1px solid orange;
 }
 
 .pagination a {
@@ -83,10 +51,36 @@ main img:hover {
 
 .pagination a:hover {
     font-weight: bold;
-    color: #3355ff;
+    color: orange;
+}
+
+.content a {
+    text-decoration: none;
+    color: #000000;
+    margin: 5px;
+    padding: 0px 10px;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+    font-size: 36px;
+    border-left: 1px solid #f1f1f2;
+    border-right: 5px solid #555555;
+    border-radius: 5px;
+}
+
+.content a:hover {
+    border-right: 5px solid #555555;
+    border-left: 1px solid #000000;
+    border-radius: 5px;
+    background-color: orange;
+    color:#ffffff;
+
+}
+
+.top :not(:first-child):not(:last-child) {
+    background-color: orange;
 }
 
 footer {
-    border-top: 1px solid #cccccc;
-    background-color: #ffffff;
+    background-image: linear-gradient(#f1f1f1, #ffffff);
+    border-top: 1px solid #aaaaaa;
 }
