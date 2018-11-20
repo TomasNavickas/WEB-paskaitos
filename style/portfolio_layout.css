@@ -16,21 +16,18 @@ header {
     justify-self: center;
     align-self: center;
     grid-column: 1;
-    /*grid-area: logo;*/
 }
 
 .top {
     justify-self: center;
     align-self: center;
     grid-column: 2;
-    /*grid-area: top;*/
 }
 
 .burger {
     justify-self: center;
     align-self: center;
     grid-column: 3;
-    /*grid-area: burger*/
 }
 
 .content {
@@ -39,7 +36,7 @@ header {
     grid-area: content;
 }
 
-.gallery{
+.gallery {
     grid-area: gal;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -94,7 +91,7 @@ header {
     grid-area: page;
 }
 
-footer{
+footer {
     grid-area: foot;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
