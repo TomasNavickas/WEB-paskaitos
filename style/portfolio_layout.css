@@ -1,12 +1,15 @@
 .wrap {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 60px 70px auto 40px 50px;
+    grid-template-rows: 70px 70px auto 40px 50px;
     grid-template-areas: "head head head" ". content ." "gal gal gal" ". page ." "foot foot foot";
     grid-gap: 1em;
 }
 
 header {
+    position:fixed;
+    width: 100%;
+    height: 70px;
     grid-area: head;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;

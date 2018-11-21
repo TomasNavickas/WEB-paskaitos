@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76f90494-2305-44dd-9910-81feef95520d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/script/portfolio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/index_design.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/index_layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/kontaktai_layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/kontaktai_layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/portfolio.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/portfolio_layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/portfolio_layout.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,16 +78,18 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="9208" />
-          <entry key="html" value="3701" />
+          <entry key="css" value="9248" />
+          <entry key="html" value="3958" />
+          <entry key="js" value="946" />
           <entry key="php" value="3" />
           <entry key="txt" value="351" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="9208" />
-          <entry key="HTML" value="3701" />
+          <entry key="CSS" value="9248" />
+          <entry key="HTML" value="3958" />
+          <entry key="JavaScript" value="946" />
           <entry key="PHP" value="3" />
           <entry key="PLAIN_TEXT" value="351" />
         </counts>
@@ -103,9 +102,9 @@
       <usages-collector id="statistics.php.new.test" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="70" />
-          <entry key="HTML" value="25" />
-          <entry key="JavaScript" value="1" />
+          <entry key="CSS" value="71" />
+          <entry key="HTML" value="28" />
+          <entry key="JavaScript" value="2" />
           <entry key="Markdown" value="2" />
           <entry key="PHP" value="3" />
           <entry key="RNG Compact" value="1" />
@@ -114,9 +113,9 @@
       <usages-collector id="statistics.php.composer.command.options" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="70" />
-          <entry key="html" value="25" />
-          <entry key="js" value="1" />
+          <entry key="css" value="71" />
+          <entry key="html" value="28" />
+          <entry key="js" value="2" />
           <entry key="md" value="2" />
           <entry key="php" value="3" />
           <entry key="rnc" value="1" />
@@ -125,23 +124,22 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.522092">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/kontaktai.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1003">
-                  <caret line="59" column="7" lean-forward="true" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
-                </state>
-              </provider>
-            </entry>
-          </file>
+        <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/index.html">
+            <entry file="file://$PROJECT_DIR$/portfolio.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret lean-forward="true" />
+                <state relative-caret-position="544">
+                  <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+                  <folding>
+                    <element signature="n#head#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -150,9 +148,22 @@
       </split-first>
       <split-second>
         <leaf>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/script/portfolio.js">
-              <provider selected="true" editor-type-id="text-editor" />
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="442">
+                  <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/style/portfolio_layout.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+                </state>
+              </provider>
             </entry>
           </file>
         </leaf>
@@ -194,15 +205,16 @@
         <option value="$PROJECT_DIR$/portfolio/contacts.html" />
         <option value="$PROJECT_DIR$/portfolio/kontaktai.html" />
         <option value="$PROJECT_DIR$/kontaktai.html" />
-        <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/style/kontaktai_design.css" />
         <option value="$PROJECT_DIR$/style/portfolio_design.css" />
         <option value="$PROJECT_DIR$/style/index_design.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/style/portfolio_layout.css" />
         <option value="$PROJECT_DIR$/style/kontaktai_layout.css" />
         <option value="$PROJECT_DIR$/style/index_layout.css" />
         <option value="$PROJECT_DIR$/portfolio.js" />
+        <option value="$PROJECT_DIR$/portfolio.html" />
+        <option value="$PROJECT_DIR$/script/portfolio.js" />
+        <option value="$PROJECT_DIR$/style/portfolio_layout.css" />
       </list>
     </option>
   </component>
@@ -237,7 +249,7 @@
             <path>
               <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
               <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="script" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -255,12 +267,13 @@
     <property name="vcs.patch.to.clipboard" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs" />
-      <recent name="C:\xampp\htdocs\paskaitos" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\portfolio\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\script" />
+      <recent name="C:\xampp\htdocs" />
+      <recent name="C:\xampp\htdocs\paskaitos" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -307,7 +320,7 @@
       <workItem from="1542543088146" duration="9109000" />
       <workItem from="1542655588876" duration="9195000" />
       <workItem from="1542731105333" duration="3842000" />
-      <workItem from="1542817622383" duration="1393000" />
+      <workItem from="1542817622383" duration="10660000" />
     </task>
     <task id="LOCAL-00001">
       <created>1542137614280</created>
@@ -393,11 +406,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542741986477</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="index.html panaudotas java scriptas lengvas">
+      <created>1542819022609</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1542819022609</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79208000" />
+    <option name="totallyTimeSpent" value="88475000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -412,7 +432,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2557047" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2557047" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -532,24 +552,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/style/kontaktai_layout.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style/portfolio_layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -576,20 +582,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kontaktai.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
+        <state relative-caret-position="391">
           <caret line="59" column="7" lean-forward="true" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-686">
           <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/script/portfolio.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/portfolio_layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
