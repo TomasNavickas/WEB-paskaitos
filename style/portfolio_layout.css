@@ -1,7 +1,7 @@
 .wrap {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 60px 70px 440px 40px 50px;
+    grid-template-rows: 60px 70px auto 40px 50px;
     grid-template-areas: "head head head" ". content ." "gal gal gal" ". page ." "foot foot foot";
     grid-gap: 1em;
 }
@@ -40,7 +40,7 @@ header {
     grid-area: gal;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 220px 220px;
+    grid-template-rows: 200px 200px;
 }
 
 .img1 {

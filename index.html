@@ -4,14 +4,27 @@
     <meta charset="UTF-8">
     <title>pradzia</title>
     <link rel="stylesheet" href="style/reset.css">
+    <link rel="stylesheet" href="style/index_layout.css">
+    <link rel="stylesheet" href="style/index_design.css">
 </head>
 <body>
+<div class="wrap">
 <header>
+    <div class="logo">
+        <img src="img/logo/logo.png" alt="logo" height="40">
+    </div>
+
     <nav class="top">
-        <a href="/">Pagrindinis</a>
+        <a href="/index.html">Pagrindinis</a>
         <a href="portfolio.html">Portfolio</a>
         <a href="kontaktai.html">Kontaktai</a>
     </nav>
+
+    <div class="burger">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
 </header>
 
 <main>
@@ -42,15 +55,13 @@
 </main>
 
 <footer>
-    <span>
-        2018 &copy; visos teises saugomos
-    </span>
-    <nav class="bottom">
-        <a href="/">Pagrindinis</a>
-        <a href="portfolio.html">Portfolio</a>
-        <a href="kontaktai.html">Kontaktai</a>
-    </nav>
+    <div class="copy"> 2018 &copy; visos teisės saugomos.</div>
+    <div class="botlogo">
+        <img src="img/logo/kaunas-02.png" alt="logo" height="28">
+    </div>
 </footer>
+
+</div>
 
 <script>
     document.getElementById("demo").innerHTML = 5 + 6;
