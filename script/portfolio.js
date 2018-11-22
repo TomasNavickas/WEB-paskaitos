@@ -7,7 +7,7 @@ function gauti(a) {
 var xx = '';
 
 function gautiATSteksta() {
-    if(xx === ''){
+    if (xx === '') {
         xx = document.getElementById('rezultatas').innerHTML;
     }
     return xx;
@@ -57,3 +57,24 @@ function dalinti() {
 
     result(dal);
 }
+
+
+var Ernestas = {vardas: 'Ernestas', pavarde: 'Vaitkevicius', amzius: '21'};
+var TomasR = {vardas: 'Tomas', pavarde: 'Radzevicius', amzius: '22'};
+var Mantautas = {vardas: 'Mantautas', pavarde: 'everbickas', amzius: '23'};
+var Lina = {vardas: 'Lina', pavarde: 'Sukauskaite', amzius: '24'};
+var Mantas = {vardas: 'Mantas', pavarde: 'Sasnauskas', amzius: '25'};
+var Eimantas = {vardas: 'Eimantas', pavarde: 'Svelnys', amzius: '26'};
+var as = {vardas: 'Tomas', pavarde: 'Navickas', amzius: '27'};
+
+var grupe = [Ernestas, TomasR, Mantautas, Lina, Mantas, Eimantas, as];
+
+function isvestis(ka, ikur) {
+    var kur = document.getElementsByClassName("grupe")[0];
+    for (var i = 0; i < grupe.length; i++) {
+        asmuo = grupe[i];
+        kur.innerHTML += asmuo.vardas + " " + asmuo.pavarde + " " + asmuo.amzius + "<br/>";
+    }
+}
+
+isvestis(grupe, "grupe");
