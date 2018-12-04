@@ -1,0 +1,33 @@
+body {
+    background-color: #353535;
+}
+
+button {
+    border: 1px solid red;
+    border-radius: 50px;
+    margin: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    background-color: #aaaaaa;
+}
+
+button:active {
+    text-decoration: none;
+    border: 1px solid red;
+}
+
+button:hover {
+    border: 1px solid red;
+    border-radius: 50px;
+    background-color: darkolivegreen;
+}
+
+#snake {
+    padding: 2px;
+    background-color: #444444;
+    border: 2px solid #ff3300;
+}
+
