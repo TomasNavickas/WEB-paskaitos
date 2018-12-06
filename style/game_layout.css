@@ -5,7 +5,9 @@ body {
     margin: 10px;
 }
 
-#snake {
+#canvas {
+    width: 600px;
+    height: 600px;
     grid-column: 2/3;
     grid-row: 1;
 }
